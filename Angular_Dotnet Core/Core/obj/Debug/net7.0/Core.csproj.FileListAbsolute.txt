@@ -1,0 +1,12 @@
+E:\Freelance\Angular_Dotnet Core\Core\bin\Debug\net7.0\Core.deps.json
+E:\Freelance\Angular_Dotnet Core\Core\bin\Debug\net7.0\Core.dll
+E:\Freelance\Angular_Dotnet Core\Core\bin\Debug\net7.0\Core.pdb
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.dll
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\refint\Core.dll
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\Core.pdb
+E:\Freelance\Angular_Dotnet Core\Core\obj\Debug\net7.0\ref\Core.dll
